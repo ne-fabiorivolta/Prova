@@ -1,17 +1,28 @@
+import java.util.Random;
+
 /**
  * Created by Rivolta Fabio on 30/06/2017.
  */
 public class Main {
     public static void main(String[] args) {
+        Get_pensiero getPensiero1 = new Get_pensiero();
 
+        Random r = new Random();
 
-        Get_pensiero getPensiero1= new Get_pensiero();
-        Get_pensiero getPensiero2= new Get_pensiero();
-        getPensiero1.getPensiero(8,2);
-        getPensiero2.getPensiero(5,7);
+        int pensiero1 = 0;
+        int pensiero2 = 0;
+
+        while (pensiero1 < 6 && pensiero2 < 8) {
+            pensiero1 = r.nextInt(6);
+            pensiero2 = r.nextInt(8);
+            getPensiero1.getPensiero(pensiero1, pensiero2);
+            if (pensiero1 == 5 && pensiero2 == 7) {
+                break;
+            }
+            System.out.println("getPensiero: " + pensiero1 + "." + pensiero2);
+        }
 
 
         System.out.println("questo è il carciofo principale");
-
     }
 }
