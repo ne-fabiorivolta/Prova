@@ -3,17 +3,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-<<<<<<< HEAD
 
-
-
-        System.out.println("questo è fagiolino");
-
-
-        System.out.println("qusto è ciccio");
->>>>>>> ciccio
-=======
-        System.out.println("gnagnami tutto");
->>>>>>> fiffino
     }
 }
