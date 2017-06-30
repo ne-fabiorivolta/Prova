@@ -4,7 +4,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
         Get_pensiero getPensiero1= new Get_pensiero();
         Get_pensiero getPensiero2= new Get_pensiero();
         getPensiero1.getPensiero(8,2);
