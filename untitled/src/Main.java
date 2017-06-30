@@ -1,3 +1,5 @@
+import entity.Get_pensiero;
+
 /**
  * Created by Rivolta Fabio on 30/06/2017.
  */
