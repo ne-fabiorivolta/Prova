@@ -3,6 +3,7 @@
  */
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
 
 
@@ -11,5 +12,8 @@ public class Main {
 
         System.out.println("qusto è ciccio");
 >>>>>>> ciccio
+=======
+        System.out.println("gnagnami tutto");
+>>>>>>> fiffino
     }
 }
