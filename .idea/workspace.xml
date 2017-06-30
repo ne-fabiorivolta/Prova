@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfaded20-a767-4460-8b08-908fff6271bb" name="Default" comment="Merge branch 'carciofino' into carciofino_di_fabio&#10;&#10;# Conflicts:&#10;#&#9;untitled/src/Main.java">
+    <list default="true" id="cfaded20-a767-4460-8b08-908fff6271bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -440,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498830944142</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'carciofino' into carciofino_di_fabio&#10;&#10;# Conflicts:&#10;#&#9;untitled/src/Main.java">
+      <created>1498830964267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498830964267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
