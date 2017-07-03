@@ -18,12 +18,13 @@ public class Main {
             i++;
             getPensiero1.getPensiero(pensiero1, pensiero2);
             if (pensiero1 == 5 && pensiero2 == 7) {
+                System.out.println("get pensiero: " + pensiero1 + "." + pensiero2 +" numero di iterazioni: "+ i);
                 break;
             }
             System.out.println("getPensiero: " + pensiero1 + "." + pensiero2 +" numero di iterazioni: "+ i);
         }
 
 
-        System.out.println("questo è il carciofo principale");
+        //System.out.println("questo è il carciofo principale");
     }
 }
